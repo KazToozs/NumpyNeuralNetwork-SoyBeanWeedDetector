@@ -1,0 +1,3 @@
+# NumpyNeuralNetwork-SoyBeanWeedDetector
+
+Attempted creating Neural Network in NumPy, resorted to basic TF...
